@@ -1,1 +1,2 @@
 I learned how to use Git, GitHub, cloning, committing, and pushing changes!
+What I have learned from this course is that Git helps track changes, manage versions, and collaborate effectively.
